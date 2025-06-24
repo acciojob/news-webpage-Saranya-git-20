@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.header{
+	background-color: #011e29;
+	color:white;
+	align-items:center;
+}
+body{
+	background-color:#f5f5f5;
+}
+.latest-news-section,.main-article,.pictorial-news-section{
+	border:1px solid black;
+	padding:20px;
+	margin:20px;
+	align-items:center;
+}
+section{
+	display:flex;
+	/* flex-direction:row; */
+}
